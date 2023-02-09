@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "absolute path name is"
+pathname=ls pwd 
