@@ -1,1 +1,1 @@
-users home
+current directory script
