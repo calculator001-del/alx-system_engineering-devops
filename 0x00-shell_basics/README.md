@@ -1,1 +1,1 @@
-current directory script
+hidden files script
