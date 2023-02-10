@@ -1,1 +1,1 @@
-script for displaying the content
+users home
