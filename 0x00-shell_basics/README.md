@@ -1,1 +1,1 @@
-command for absolute path name
+script for displaying the content
