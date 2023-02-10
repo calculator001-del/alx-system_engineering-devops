@@ -1,1 +1,1 @@
-current directory script
+script for displaying current directory
