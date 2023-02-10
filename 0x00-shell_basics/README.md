@@ -1,1 +1,1 @@
-file script for absolute path name
+command for absolute path name
