@@ -1,1 +1,1 @@
-script for delitting directory
+script for changing working dir to previous dir
