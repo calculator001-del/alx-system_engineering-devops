@@ -1,1 +1,1 @@
-script for delitting files
+script for delitting directory
