@@ -1,1 +1,1 @@
-script for showing type of file
+script for symbolic link
