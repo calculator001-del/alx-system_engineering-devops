@@ -1,1 +1,1 @@
-list order
+script for showing type of file
