@@ -6,3 +6,4 @@ script to copy all HTML files
 script to copy all HTML files
 move uppercase files
 delete all that ends with the character ~
+this script is for creating directories
