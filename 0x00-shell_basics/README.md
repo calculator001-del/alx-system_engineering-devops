@@ -5,3 +5,4 @@ script for symbolic link
 script to copy all HTML files
 script to copy all HTML files
 move uppercase files
+delete all that ends with the character ~
