@@ -8,3 +8,4 @@ move uppercase files
 delete all that ends with the character ~
 this script is for creating directories
 script for listing files and directories starting with commas
+magic file
