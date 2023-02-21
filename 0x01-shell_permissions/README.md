@@ -10,3 +10,4 @@ script for allowing permission to everybody
 9.script for setting file mode
 10. setting same mode of file
 11.script tha add execution permission to subdirectories
+12. more directories with permission
