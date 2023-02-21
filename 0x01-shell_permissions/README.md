@@ -14,3 +14,4 @@ script for allowing permission to everybody
 13. sript that changes group owner
 14. owner and group
 13.script changes owner to vincent and grou to staff
+14. script for symbolic links
