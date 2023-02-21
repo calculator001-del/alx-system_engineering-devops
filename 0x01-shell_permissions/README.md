@@ -15,3 +15,4 @@ script for allowing permission to everybody
 14. owner and group
 13.script changes owner to vincent and grou to staff
 14. script for symbolic links
+15. script to change only owned by the user guillaume
