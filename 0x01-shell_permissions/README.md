@@ -5,3 +5,4 @@ script for changing owner of file
 script for creating empty file
 sript for adding exe permission
 6.script for multiple permission
+script for allowing permission to everybody
