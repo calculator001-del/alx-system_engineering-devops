@@ -3,3 +3,4 @@
 2.sript prints part which current user is
 script for changing owner of file
 script for creating empty file
+sript for adding exe permission
