@@ -12,3 +12,5 @@ script for allowing permission to everybody
 11.script tha add execution permission to subdirectories
 12. more directories with permission
 13. sript that changes group owner
+14. owner and group
+13.script changes owner to vincent and grou to staff
