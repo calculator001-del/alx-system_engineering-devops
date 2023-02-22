@@ -8,3 +8,4 @@
 7. script for creating a silent file
 8. script that append to a file and content is redirected
 9. this script duplicates the last line of the given file
+10. this script deletes all file extention .js
