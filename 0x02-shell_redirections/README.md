@@ -6,3 +6,4 @@
 5. I'd prefer the first one actually
 6. line #2-this script display the third line of the given file
 7. script for creating a silent file
+8. script that append to a file and content is redirected
