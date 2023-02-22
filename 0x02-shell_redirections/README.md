@@ -7,3 +7,4 @@
 6. line #2-this script display the third line of the given file
 7. script for creating a silent file
 8. script that append to a file and content is redirected
+9. this script duplicates the last line of the given file
