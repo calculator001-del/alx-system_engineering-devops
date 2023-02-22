@@ -4,3 +4,4 @@
 3. what about 2?- script for displaying two dir
 4. last lines of a file - this script will display the last 10 lines of the file given
 5. I'd prefer the first one actually
+6. line #2-this script display the third line of the given file
