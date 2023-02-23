@@ -16,3 +16,4 @@
 15. script will display line of a file with pattern
 16. script for displaying line and pattern
 17. script will display lines that doesn't have required pattern
+18. script displays all that start with a letter
