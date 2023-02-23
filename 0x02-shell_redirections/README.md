@@ -13,3 +13,4 @@
 12. script will display 10 newest files
 13. this script takes a list of words as input and prints only words that appear exactly once
 14. This script displays lines of file containing patterns
+15. script will display line of a file with pattern
