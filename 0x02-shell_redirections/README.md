@@ -22,3 +22,4 @@
 21. this script is for reversing input
 22. this script displays all mentioned in the commit
 23. script contain a command that finds empty file
+24. this script list file extentions
