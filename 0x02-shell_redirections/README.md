@@ -11,3 +11,4 @@
 10. this script deletes all file extention .js
 11. this script counts the number of directories and subdirectories in the current directory
 12. script will display 10 newest files
+13. this script takes a list of words as input and prints only words that appear exactly once
