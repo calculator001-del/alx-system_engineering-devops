@@ -15,3 +15,4 @@
 14. This script displays lines of file containing patterns
 15. script will display line of a file with pattern
 16. script for displaying line and pattern
+17. script will display lines that doesn't have required pattern
