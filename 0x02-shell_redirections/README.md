@@ -18,3 +18,4 @@
 17. script will display lines that doesn't have required pattern
 18. script displays all that start with a letter
 19. script replaces characters in a certain order
+ 20. this script will remove any letter given
