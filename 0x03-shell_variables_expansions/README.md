@@ -15,3 +15,4 @@
 14. script for converting numbers
 15. script for encoding and decoding
 16. script that prints from the input
+17. this script does summing
