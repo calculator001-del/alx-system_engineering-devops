@@ -7,3 +7,4 @@
 6. script creates new local variable
 7. script creates global variable
 8. script for printing result for environment calculatations
+9. script for printing division results
