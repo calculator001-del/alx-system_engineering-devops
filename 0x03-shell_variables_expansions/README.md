@@ -14,3 +14,4 @@
 13. script for printing numbers as specified
 14. script for converting numbers
 15. script for encoding and decoding
+16. script that prints from the input
