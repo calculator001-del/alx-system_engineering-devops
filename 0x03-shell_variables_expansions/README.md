@@ -2,3 +2,4 @@
 1. this script prints to the terminal
 2. this script looks for a program in the shell
 3. this script counts the number of directories
+4. this script is for listing environment variables
