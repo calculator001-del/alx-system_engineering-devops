@@ -13,3 +13,4 @@
 12. script will print a combination of letters
 13. script for printing numbers as specified
 14. script for converting numbers
+15. script for encoding and decoding
