@@ -11,3 +11,4 @@
 10. script will display the wanted results
 11. script for converting numbers
 12. script will print a combination of letters
+13. script for printing numbers as specified
