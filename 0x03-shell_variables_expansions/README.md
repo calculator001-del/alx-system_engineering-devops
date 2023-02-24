@@ -10,3 +10,4 @@
 9. script for printing division results
 10. script will display the wanted results
 11. script for converting numbers
+12. script will print a combination of letters
